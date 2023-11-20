@@ -26,4 +26,4 @@
     <img alt="C#" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dieguviana&demo=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
