@@ -1,11 +1,6 @@
-
-# Olá! Eu sou Diego Viana 🖐🏻
-
-![Diego Viana GitHub stats](https://github-readme-stats.vercel.app/api?username=dieguviana&show_icons=true&theme=radical)
-
 ## Tecnologias que uso
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -25,5 +20,7 @@
     <img alt="C#" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img alt="C#" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
 </div><br/>
+
+![Diego Viana GitHub stats](https://github-readme-stats.vercel.app/api?username=dieguviana&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dieguviana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
