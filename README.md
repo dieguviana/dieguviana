@@ -21,6 +21,4 @@
     <img alt="C#" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
 </div><br/>
 
-![Diego Viana GitHub stats](https://github-readme-stats.vercel.app/api?username=dieguviana&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dieguviana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
