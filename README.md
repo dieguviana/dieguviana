@@ -1,3 +1,7 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dieguviana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
 ## Tecnologias que uso
 
 <div style="display: inline_block">
@@ -19,6 +23,4 @@
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img alt="C#" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img alt="C#" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
-</div><br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dieguviana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+</div>
