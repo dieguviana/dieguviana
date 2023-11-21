@@ -5,7 +5,7 @@
 ## Tecnologias que uso
 
 <div style="display: inline_block">
-    <a disabled>
+    <a href="www.visualstudio.com" disabled>
     <img enabled alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="cursor: default;">
     </a>
     <img alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
